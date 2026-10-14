@@ -1,0 +1,14 @@
+{
+  "name": "build-a-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
